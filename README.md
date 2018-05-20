@@ -1,0 +1,2 @@
+# TileConfigurations
+Combinatorial puzzle
