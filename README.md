@@ -3,7 +3,7 @@ Combinatorial puzzle
 
 Exploring this question, posed by a friend:
 
-* What I'm ultimately trying to figure out has two parts*
+*What I'm ultimately trying to figure out has two parts*
 
 *Part 1: find the number of unique ways to shade m squares of an n x n grid for all m < or = n^2*
 
